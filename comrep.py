@@ -22,3 +22,4 @@ while i < len(chaves):
         resultado.append(chaves[i])
     i += 1
 print(resultado)
+
