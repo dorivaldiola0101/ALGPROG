@@ -20,3 +20,5 @@ while i < len(sequencia):
         blacklist.append(sequencia[i])
     i += 1 
 print(blacklist)
+
+
